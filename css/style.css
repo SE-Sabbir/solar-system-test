@@ -11,7 +11,7 @@ body{
     justify-content: center;
     background-color: #250d0d;
     overflow: hidden;
-    background-image: url(/Images/star\ bg.jpg);
+    background-image: url(/images/star-bg.jpg);
 }
 .container{
     width: 100vw;
